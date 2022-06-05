@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 #topbar {
   background: #106eea;
   height: 40px;
-  font-size: 14px;
+  font-size: 12px;
   transition: all 0.5s;
   color: #fff;
   padding: 0;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #header.fixed-top {
-  height: 70px;
+  height: 80px;
 }
 #header .logo {
   font-size: 30px;
